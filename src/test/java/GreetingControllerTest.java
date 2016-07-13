@@ -20,6 +20,7 @@ public class GreetingControllerTest extends BackendBaseTest {
     public void exampleRestTest() {
         RestAssuredMockMvc.given()
                 .contentType(ContentType.JSON)
+                .param("name", "Johan")
                 .when()
                 .get("/greeting")
                 .then()
