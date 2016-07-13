@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/otchayaniye.iml" filepath="$PROJECT_DIR$/otchayaniye.iml" />
-      <module fileurl="file://$PROJECT_DIR$/otcjname/otcjname.iml" filepath="$PROJECT_DIR$/otcjname/otcjname.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hyh.iml" filepath="$PROJECT_DIR$/hyh.iml" />
     </modules>
   </component>
 </project>
