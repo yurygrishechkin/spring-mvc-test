@@ -1,3 +1,5 @@
+package pro.redsoft.springmvcexample;
+
 /**
  * Created by yury on 8.7.16.
  */
